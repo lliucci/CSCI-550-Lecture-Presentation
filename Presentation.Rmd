@@ -1,0 +1,12 @@
+---
+title: "Introduction to Model Based Clustering"
+author: "Eric Folsom, Nick Clausen, Eliot Liucci, Christal O'Connell"
+date: "`r Sys.Date()`"
+output: beamer_presentation
+---
+
+# Learning Objectives
+
+- Understand where Model Based Clustering is beneficial and where it lags behind other clustering methods.
+- Understand the concept of likelihood in the context of classification/clustering
+- Understand the EM Algorithm and how it differs/relates to other methods covered in class
